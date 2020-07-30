@@ -16,4 +16,6 @@
 
 4. nodejs
 
+5. I kinda like bashscripting too
+
 ## connect with me on [twitter](https://twitter.com/kyarleschalo/).
