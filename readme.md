@@ -2,20 +2,35 @@
 
 ![Charles kyalo 2](https://user-images.githubusercontent.com/40355510/88951177-53c05200-d29e-11ea-80dc-8b8fc500d525.png)
 
-## I am budding software developer based in kenya.
+### I am  a budding fullstack software developer based in kenya.
 
-## I like building amazing applications for the web.
+### I like building amazing applications for the web ranging from backend apis to highly interactive frontends.
 
-## the technologies am using include :-
+## Languages and tools  am using include :-
 
-1. javaScript (vanilla js and react js)
+- [x] [javaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 
 
-2. Html5
+- [x] [typeScript](https://www.typescriptlang.org/) 
 
-3. CSS3
+- [x] [react js library ](https://reactjs.org/docs/getting-started.html)
 
-4. nodejs
+- [x] [Node js](https://nodejs.org/)
 
-5. I kinda like bashscripting too
+- [x] [Phaser js library for building js browser games](https://photonstorm.github.io/phaser3-docs/)
+
+- [x] [Html5](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
+
+- [x] [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS)
+
+- [x] [figma design tool](https://www.figma.com/) 
+
+- [x] [mongoDB database](https://www.mongodb.com/)
+
+- [x] I kinda like bashscripting too
+
+
+
+
+
 
 ## connect with me on [twitter](https://twitter.com/kyarleschalo/).
