@@ -6,6 +6,8 @@
 
 ### I like building amazing applications for the web ranging from backend apis to highly interactive frontends.
 
+![githubStats](https://github-readme-stats.vercel.app/api?username=charleskyalo&show_icons=true&locale=en)
+
 ## Languages and tools  am using include :-
 
 - [x] [javaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 
