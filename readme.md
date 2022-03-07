@@ -1,4 +1,4 @@
-# Hi there :wave: am charles kyalo :blush:
+# Hi there :wave: :blush: I am 
 
 ![Charles kyalo 2](https://user-images.githubusercontent.com/40355510/88951177-53c05200-d29e-11ea-80dc-8b8fc500d525.png)
 
