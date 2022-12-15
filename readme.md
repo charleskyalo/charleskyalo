@@ -1,4 +1,4 @@
-# Hi there :wave: :blush: I am 
+# Hi there :wave: :blush: I am charles
 
 
 ### I am  a budding fullstack software developer based in kenya.
